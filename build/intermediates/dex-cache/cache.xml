@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahmoud\.android\build-cache\2234e3394e588565de74cd8b6c26757de59dceec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Mahmoud\Desktop\Auth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9a9c694d2ca8f89fbc54ef9dadb94378180adcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahmoud\Desktop\Auth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4990a88da5d6d86bf4f76b82fb45b8cbc3de64a">
+        <dex dex="C:\Users\Mahmoud\Desktop\Auth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b351316c89d6ee807af3255d82b89c813be77a42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahmoud\.android\build-cache\2a268f17425b314c1228bfe123a7d4cfc96f0cd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\Mahmoud\Desktop\Auth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc806a08917ea5624b88864675fec1618b8e95da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahmoud\.android\build-cache\17c954e759c7d83bc1ebf9df63b6f0708bcd1883\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="820605b42a2d3d9cb9e6c4cc7453fb4f802aedff">
+        <dex dex="C:\Users\Mahmoud\Desktop\Auth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edb9e17279df7f84a778c85ba8c55c5da858dc0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahmoud\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Mahmoud\Desktop\Auth\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_a859c6c74617bdbb89c009d09201c3dd7f99a2a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahmoud\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Mahmoud\Desktop\Auth\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_3a04271ec3eb89cdc81ae9a3f9230ba785e71f15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahmoud\Desktop\Auth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Mahmoud\Desktop\Auth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4ed40431fe23195d3cd74b44e8f914cdf319de13\classes.dex" />
+    </item>
+
+</items>
